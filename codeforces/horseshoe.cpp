@@ -20,4 +20,4 @@ int main() {
     cout << 4 - unique;
 
     return 0;
-}
+} 
